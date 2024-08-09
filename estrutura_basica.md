@@ -75,6 +75,3 @@
 - **Como Contribuir**
   - Informações sobre doações e apoios financeiros
 
----
-
-© 2024 Programa REBIMAR - Todos os direitos reservados.
